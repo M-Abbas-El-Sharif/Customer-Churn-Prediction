@@ -3,7 +3,7 @@
 ## Overview
 
 Customer churn is one of the most important business challenges in the telecommunications industry. This project uses Machine Learning techniques to identify customers who are likely to leave a telecom service provider and helps support customer retention strategies through predictive analytics.
-
+### Live Link: https://m-customer-churn-prediction.streamlit.app/
 The project includes:
 - Data Understanding
 - Exploratory Data Analysis (EDA)
